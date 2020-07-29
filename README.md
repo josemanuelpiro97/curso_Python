@@ -24,6 +24,9 @@ repositorio destinado al seguimiento del curso.
 
 ## Recursos
 
+**Google Colaboratory**
+<https://colab.research.google.com/notebooks/intro.ipynb>
+
 **Documentacion oficial de Python**
 <https://docs.python.org/3/tutorial/index.html>
 
