@@ -58,7 +58,7 @@ Como vimos en el punto anterior, una ves que se realiza una modificación al est
 
 Luego de trackear el cambio obtendremos una salida como la siguiente
 
-![foo](/images/git%20add.png "title")
+![foo](/images/gitadd.png "title")
 
 Podemos ver como ahora **git nos indica que ya estamos trackeando los nuevos cambios**, y que lo que **resta es hacer un commit** (*etiquetar el nuevo estado*).
 
