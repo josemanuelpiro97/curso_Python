@@ -10,7 +10,7 @@ repositorio destinado al seguimiento del curso.
 
 | **N**  | **Fecha**  | **Detalle**  |
 |---|---|---|
-|   |   |   |
+|  1 | 05/8  | primera tarea  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
