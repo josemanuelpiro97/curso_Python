@@ -38,10 +38,14 @@ Una ves que el repositoro esta de manera local, podremos encontrarlo como una ca
 
 ## Subiendo cambios del repostorio local a la nube
 
-A continucacion explicare **3 comandos** muy importantes para el trabajo con repositorios, estos son **git add**, **git commit** y **git push**
+A continucacion explicare **4 comandos** muy importantes para el trabajo con repositorios, estos son **git status**, **git add**, **git commit** y **git push**
 
-### git add
+### status
 
-Este comando esta dedicado a trackear los archivos del repositorio, es decir que dado algun cambio, sea cual sea,
+Este comando nsos permitira saber el estado actual del repositorio. este se vera modificado cada ves que agregue o quite un archivo, o cuando solamente lo modfique.
+
+Pr ejemplo, al agregar un achivo nevo al repositorio, o al modificar algun archivo existente nos mostrara algo como esto:
+
+
 
 
