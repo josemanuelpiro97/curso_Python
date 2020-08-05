@@ -46,6 +46,8 @@ Este comando nsos permitira saber el estado actual del repositorio. este se vera
 
 Pr ejemplo, al agregar un achivo nevo al repositorio, o al modificar algun archivo existente nos mostrara algo como esto:
 
+![foo](images/git_status.png "title")
+
 
 
 
