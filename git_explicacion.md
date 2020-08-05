@@ -48,6 +48,17 @@ Pr ejemplo, al agregar un achivo nevo al repositorio, o al modificar algun archi
 
 ![foo](images/git_status.png "title")
 
+Aqui podemos ver que git nos indica que no le esta haciendo el trackeo a la nueva modificacion, es por esto que si queremos hacer el cambio efectivo, deberemos usar el comando add
+
+## add
+
+Como vimos en el punto anterios, una ves que se realiza una modificacion al estado anterior del repositorio, este cambio debera hacerse efectivo mediante el comando add
+
+    git add [ruta/al/archivo]
+
+Luego de trackear el cambio obtendremos una salida como la siguiente
+
+![foo](/images/git%20add.png "title")
 
 
 
